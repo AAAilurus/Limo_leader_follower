@@ -1,0 +1,27 @@
+[1.000s] Invoking command in '/home/labpc/lf_ws/build/lf_turtlesim': PYTHONPATH=/home/labpc/lf_ws/build/lf_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/labpc/lf_ws/install/lf_turtlesim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/labpc/lf_ws/build/lf_turtlesim/build --no-deps symlink_data
+[1.394s] running develop
+[1.570s] running egg_info
+[1.571s] creating lf_turtlesim.egg-info
+[1.571s] writing lf_turtlesim.egg-info/PKG-INFO
+[1.571s] writing dependency_links to lf_turtlesim.egg-info/dependency_links.txt
+[1.571s] writing entry points to lf_turtlesim.egg-info/entry_points.txt
+[1.571s] writing requirements to lf_turtlesim.egg-info/requires.txt
+[1.572s] writing top-level names to lf_turtlesim.egg-info/top_level.txt
+[1.572s] writing manifest file 'lf_turtlesim.egg-info/SOURCES.txt'
+[1.572s] reading manifest file 'lf_turtlesim.egg-info/SOURCES.txt'
+[1.573s] writing manifest file 'lf_turtlesim.egg-info/SOURCES.txt'
+[1.615s] running build_ext
+[1.615s] Creating /home/labpc/lf_ws/install/lf_turtlesim/lib/python3.10/site-packages/lf-turtlesim.egg-link (link to .)
+[1.615s] Installing follower_path_tracker script to /home/labpc/lf_ws/install/lf_turtlesim/lib/lf_turtlesim
+[1.615s] Installing follower_safety_filter script to /home/labpc/lf_ws/install/lf_turtlesim/lib/lf_turtlesim
+[1.616s] Installing leader_path_recorder script to /home/labpc/lf_ws/install/lf_turtlesim/lib/lf_turtlesim
+[1.616s] Installing leader_safety_filter script to /home/labpc/lf_ws/install/lf_turtlesim/lib/lf_turtlesim
+[1.616s] 
+[1.616s] Installed /home/labpc/lf_ws/build/lf_turtlesim
+[1.616s] running symlink_data
+[1.616s] creating /home/labpc/lf_ws/install/lf_turtlesim/share/ament_index
+[1.616s] creating /home/labpc/lf_ws/install/lf_turtlesim/share/ament_index/resource_index
+[1.616s] creating /home/labpc/lf_ws/install/lf_turtlesim/share/ament_index/resource_index/packages
+[1.616s] symbolically linking /home/labpc/lf_ws/build/lf_turtlesim/resource/lf_turtlesim -> /home/labpc/lf_ws/install/lf_turtlesim/share/ament_index/resource_index/packages
+[1.616s] symbolically linking /home/labpc/lf_ws/build/lf_turtlesim/package.xml -> /home/labpc/lf_ws/install/lf_turtlesim/share/lf_turtlesim
+[1.645s] Invoked command in '/home/labpc/lf_ws/build/lf_turtlesim' returned '0': PYTHONPATH=/home/labpc/lf_ws/build/lf_turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/labpc/lf_ws/install/lf_turtlesim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/labpc/lf_ws/build/lf_turtlesim/build --no-deps symlink_data

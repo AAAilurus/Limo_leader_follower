@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating lf_turtlesim.egg-info
+writing lf_turtlesim.egg-info/PKG-INFO
+writing dependency_links to lf_turtlesim.egg-info/dependency_links.txt
+writing entry points to lf_turtlesim.egg-info/entry_points.txt
+writing requirements to lf_turtlesim.egg-info/requires.txt
+writing top-level names to lf_turtlesim.egg-info/top_level.txt
+writing manifest file 'lf_turtlesim.egg-info/SOURCES.txt'
+reading manifest file 'lf_turtlesim.egg-info/SOURCES.txt'
+writing manifest file 'lf_turtlesim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/labpc/lf_ws/install/lf_turtlesim/lib/python3.10/site-packages/lf-turtlesim.egg-link (link to .)
+Installing follower_path_tracker script to /home/labpc/lf_ws/install/lf_turtlesim/lib/lf_turtlesim
+Installing follower_safety_filter script to /home/labpc/lf_ws/install/lf_turtlesim/lib/lf_turtlesim
+Installing leader_path_recorder script to /home/labpc/lf_ws/install/lf_turtlesim/lib/lf_turtlesim
+Installing leader_safety_filter script to /home/labpc/lf_ws/install/lf_turtlesim/lib/lf_turtlesim
+
+Installed /home/labpc/lf_ws/build/lf_turtlesim
+running symlink_data
+creating /home/labpc/lf_ws/install/lf_turtlesim/share/ament_index
+creating /home/labpc/lf_ws/install/lf_turtlesim/share/ament_index/resource_index
+creating /home/labpc/lf_ws/install/lf_turtlesim/share/ament_index/resource_index/packages
+symbolically linking /home/labpc/lf_ws/build/lf_turtlesim/resource/lf_turtlesim -> /home/labpc/lf_ws/install/lf_turtlesim/share/ament_index/resource_index/packages
+symbolically linking /home/labpc/lf_ws/build/lf_turtlesim/package.xml -> /home/labpc/lf_ws/install/lf_turtlesim/share/lf_turtlesim

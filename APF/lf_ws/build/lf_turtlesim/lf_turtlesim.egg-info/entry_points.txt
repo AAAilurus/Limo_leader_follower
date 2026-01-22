@@ -1,0 +1,6 @@
+[console_scripts]
+follower_path_tracker = lf_turtlesim.follower_path_tracker:main
+follower_safety_filter = lf_turtlesim.follower_safety_filter:main
+leader_path_recorder = lf_turtlesim.leader_path_recorder:main
+leader_safety_filter = lf_turtlesim.leader_safety_filter:main
+
